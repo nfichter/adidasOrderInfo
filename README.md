@@ -18,8 +18,8 @@ pip install selenium
 
 Fill your orders.csv file with the following format (sample in the repo)
 
-<ordernum>,<email>
-<ordernum2>,<email2>
+\<ordernum\>,\<email\>
+\<ordernum2\>,\<email2\>
 
 # Running
 
